@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['bata', 'botas', 'cabello_recogido', 'cabello_suelto', 'gafas', 'pantalon_largo', 'short']
+
+roboflow:
+  workspace: smokingdata
+  project: vision_lab_epp-pmbea
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/smokingdata/vision_lab_epp-pmbea/dataset/1
