@@ -33,7 +33,7 @@ El flujo del proyecto fue:
 
 ---
 
-## 📂 Estructura real del proyecto
+## Estructura real del proyecto
 ```
 Proyecto Final/
 ├── train/
@@ -65,6 +65,9 @@ Para ejecutar la detección en tiempo real con cámara:
 bash
 python camara.py
 ```
+
+Modelo entrenado disponible aquí: https://github.com/erojas150604/ppe-detection-system/releases/tag/v1.0-model
+
 
 ---
 
