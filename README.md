@@ -34,6 +34,7 @@ El flujo del proyecto fue:
 ---
 
 ## 📂 Estructura real del proyecto
+```
 Proyecto Final/
 ├── train/
 ├── valid/
@@ -52,6 +53,7 @@ Proyecto Final/
 │ ├── results.png
 │ └── results.csv
 └── modelos base YOLO (yolo11m.pt, yolo8m.pt)
+```
 
 ---
 
@@ -59,8 +61,10 @@ Proyecto Final/
 
 Para ejecutar la detección en tiempo real con cámara:
 
-``bash
+```
+bash
 python camara.py
+```
 
 ---
 
